@@ -1,16 +1,21 @@
 # Hi, I'm Valentina 👋 👩🏼‍💻
 
-<!--
-**19valentinavergara98/19valentinavergara98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Full Stack Developer...
+
+
+
+
+Tras una trayectoria en sector hostelero, desde el
+año 2021, he dado un salto a la tecnología
+especializándome en desarrollo Full Stack con Java,
+SpringBoot y React.
+Actualmente me encuentro en búsqueda de mi
+primera oportunidad como desarrolladora web.
+¡No dudes en contactarme si puedo ayudar a tu
+empresa!
+## 🔗 Find me around the web 🌎
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-lv/)
