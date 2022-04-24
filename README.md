@@ -19,3 +19,9 @@ Don't hesitate to contact me if I can help you!
 business!
 ## 🔗 Find me around the web 🌎
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-lv/)
+
+
+## Tech Stack
+
+
+Javascript, HTML, CSS, React, jQuery...
