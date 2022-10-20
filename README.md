@@ -1,4 +1,4 @@
-# Hi coders! 👋, I'm Valentina 👩🏼‍💻
+# Hi coders! 👋 I'm Valentina 👩🏼‍💻
 
 
 
