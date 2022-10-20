@@ -4,7 +4,7 @@
 
 
 
-Full Stack Developer...
+Junior Frontend Developer...
 
 
 
